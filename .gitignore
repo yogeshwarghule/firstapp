@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+"google-service-account-key.json" 
